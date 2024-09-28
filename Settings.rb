@@ -13,6 +13,6 @@ module Settings
 
   DISCORD_URL = "https://discord.com/invite/infinitefusion"
   WIKI_URL = "https://infinitefusion.fandom.com/"
-  STARTUP_MESSAGES = "test startup message"
+  STARTUP_MESSAGES = ""
 
 end

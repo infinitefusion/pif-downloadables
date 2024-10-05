@@ -10,6 +10,13 @@ module Settings
   CUSTOM_SPRITES_REPO_URL = "https://bitbucket.org/infinitefusionsprites/customsprites/raw/main/CustomBattlers/"
   BASE_POKEMON_SPRITES_REPO_URL = "https://gitlab.com/infinitefusion2/autogen-fusion-sprites/-/raw/main/Battlers/"
   BASE_POKEMON_ALT_SPRITES_REPO_URL = "https://bitbucket.org/infinitefusionsprites/customsprites/raw/main/Other/BaseSprites/"
+  CUSTOMSPRITES_RATE_MAX_NB_REQUESTS = 10  #Nb. requests allowed in each time window
+  CUSTOMSPRITES_ENTRIES_RATE_TIME_WINDOW = 120    # In seconds
+
+  AI_ENTRIES_URL = "https://ai-entries.pkmninfinitefusion.workers.dev/"
+  AI_ENTRIES_RATE_MAX_NB_REQUESTS = 10  #Nb. requests allowed in each time window
+  AI_ENTRIES_RATE_TIME_WINDOW = 120    # In seconds
+  AI_ENTRIES_RATE_LOG_FILE = 'Data/pokedex/rate_limit.log'  # Path to the log file
 
   #CUSTOM_SPRITES_REPO_URL = "https://infinitefusion.net/CustomBattlers/"
   #BASE_POKEMON_ALT_SPRITES_REPO_URL = "https://infinitefusion.net/Other/BaseSprites"

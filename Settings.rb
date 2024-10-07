@@ -3,7 +3,7 @@ module Settings
   SHINY_POKEMON_CHANCE = 16
   DISCORD_URL = "https://discord.com/invite/infinitefusion"
   WIKI_URL = "https://infinitefusion.fandom.com/"
-  STARTUP_MESSAGES = 
+  STARTUP_MESSAGES = ""
   
   CREDITS_FILE_URL = "https://infinitefusion.net/Sprite Credits.csv"
   SPRITES_FILE_URL = "https://raw.githubusercontent.com/infinitefusion/infinitefusion-e18/main/Data/CUSTOM_SPRITES"

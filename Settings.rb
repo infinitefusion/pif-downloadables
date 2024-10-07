@@ -5,7 +5,7 @@ module Settings
   WIKI_URL = "https://infinitefusion.fandom.com/"
   STARTUP_MESSAGES = 
   
-  CREDITS_FILE_URL = "https://infinitefusion.net/Sprite%20Credits.csv"
+  CREDITS_FILE_URL = "https://infinitefusion.net/Sprite Credits.csv"
   SPRITES_FILE_URL = "https://raw.githubusercontent.com/infinitefusion/infinitefusion-e18/main/Data/CUSTOM_SPRITES"
   VERSION_FILE_URL = "https://raw.githubusercontent.com/infinitefusion/infinitefusion-e18/main/Data/VERSION"
   CUSTOM_DEX_FILE_URL = "https://raw.githubusercontent.com/infinitefusion/infinitefusion-e18/main/Data/dex.json"

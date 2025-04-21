@@ -5,7 +5,7 @@ module Settings
   SHINY_POKEMON_CHANCE = 16
   DISCORD_URL = "https://discord.com/invite/infinitefusion"
   WIKI_URL = "https://infinitefusion.fandom.com/"
-  STARTUP_MESSAGES = ""
+  STARTUP_MESSAGES = "Infinite Fusion's 10th anniversary is coming up soon. Stay on the lookout for a special announcement on the Discord!"
   
   CREDITS_FILE_URL = "https://infinitefusion.net/Sprite Credits.csv"
 

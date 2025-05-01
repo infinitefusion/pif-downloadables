@@ -7,7 +7,7 @@ module Settings
   WIKI_URL = "https://infinitefusion.fandom.com/"
   STARTUP_MESSAGES = ""
   
-  CREDITS_FILE_URL = "https://infinitefusion.net/customsprites/Sprite%20Credits.csv"
+  CREDITS_FILE_URL = "https://infinitefusion.net/customsprites/Sprite_Credits.csv"
 
   SPRITES_FILE_URL = "https://raw.githubusercontent.com/infinitefusion/pif-downloadables/refs/heads/master/CUSTOM_SPRITES"
   BASE_SPRITES_FILE_URL = "https://raw.githubusercontent.com/infinitefusion/pif-downloadables/refs/heads/master/BASE_SPRITES"

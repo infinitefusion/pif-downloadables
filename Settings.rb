@@ -29,10 +29,9 @@ module Settings
   BASE_POKEMON_SPRITESHEET_RESIZED_URL = "https://infinitefusion.net/spritesheets_resized/spritesheets_base/"		#legacy
   CUSTOM_FUSIONS_SPRITESHEET_RESIZED_URL = "https://infinitefusion.net/spritesheets_resized/spritesheets_custom/"	#legacy
  
-  BASE_POKEMON_SPRITESHEET_TRUE_SIZE_URL = "https://infinitefusion.net/spritesheets/spritesheets_base/"
-  CUSTOM_FUSIONS_SPRITESHEET_TRUE_SIZE_URL = "https://infinitefusion.net/spritesheets/spritesheets_custom/"   #Temp fix
-  #  BASE_POKEMON_SPRITESHEET_TRUE_SIZE_URL = "https://infinitefusion.net/customsprites/spritesheets/spritesheets_base/"
-  #  CUSTOM_FUSIONS_SPRITESHEET_TRUE_SIZE_URL = "https://infinitefusion.net/customsprites/spritesheets/spritesheets_custom/"
+
+  BASE_POKEMON_SPRITESHEET_TRUE_SIZE_URL = "https://infinitefusion.net/customsprites/spritesheets/spritesheets_base/"
+  CUSTOM_FUSIONS_SPRITESHEET_TRUE_SIZE_URL = "https://infinitefusion.net/customsprites/spritesheets/spritesheets_custom/"
 
   
   

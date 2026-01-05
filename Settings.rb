@@ -3,6 +3,9 @@ module Settings
   LATEST_GAME_RELEASE = "6.7.2"
 
   SHINY_POKEMON_CHANCE = 16
+  SNOW_DAY = false
+
+  
   DISCORD_URL = "https://discord.com/invite/infinitefusion"
   WIKI_URL = "https://infinitefusion.fandom.com/"
   STARTUP_MESSAGES = ""

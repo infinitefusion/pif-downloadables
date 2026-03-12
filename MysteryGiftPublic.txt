@@ -40,11 +40,5 @@
     "item": "DNASPLICERS",
     "name": "Welcome to Hoenn! (2)",
     "enabled": true
-  },
-  "debug_hoenn_qa": {
-    "quantity": 1,
-    "item": "MAGICBOOTS",
-    "name": "PIF: HOENN Playtesting",
-    "enabled": true
   }
 }

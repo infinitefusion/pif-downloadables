@@ -7,6 +7,7 @@
       "item": "",
       "ability": "NORMALIZE",
       "level": 5,
+      "ball": "CHERISHBALL",
       "evs": {
         "hp": 0,
         "atk": 0,
@@ -30,13 +31,13 @@
         "CELEBRATE"
       ]
     },
-    "name": "Welcome to Hoenn!",
+    "name": "Welcome to Hoenn! (1)",
     "enabled": true
   },
   "2": {
     "quantity": 5,
     "item": "DNASPLICERS",
-    "name": "Welcome to Hoenn!",
+    "name": "Welcome to Hoenn! (2)",
     "enabled": true
   },
   "99999": {

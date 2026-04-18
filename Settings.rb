@@ -11,6 +11,7 @@ module Settings
     "Wiki" => "https://infinitefusion.fandom.com/",
   }
   
+  FEEDBACK_FORM_URL = "https://forms.gle/1svTMSUMf7ebHdZq7"
   DISCORD_URL = "https://discord.com/invite/infinitefusion"
   WIKI_URL = "https://infinitefusion.fandom.com/"
   

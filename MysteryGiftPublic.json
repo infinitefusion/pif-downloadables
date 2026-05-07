@@ -50,6 +50,7 @@
       "hat_x":0,
       "hat_y":44,
       "steps_to_hatch":0,
+      "alt_sprite":"n",
       "evs":{
         "hp":0,
         "atk":0,
@@ -72,7 +73,7 @@
         "COPYCAT"
       ]
     },
-    "name":"Welcome to Hoenn! (1)!",
+    "name":"Welcome to Hoenn! (1)",
     "enabled":true,
     "hoenn_only":true
   },

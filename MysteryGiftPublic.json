@@ -32,8 +32,9 @@
         "CELEBRATE"
       ]
     },
-    "name": "Welcome to Hoenn! (1)",
-    "enabled": true
+    "name": "Infinite Fusion Hoenn Release Gift!",
+    "enabled": true,
+    "kanto_only": true
   },
   "HOENN2": {
     "quantity": 5,

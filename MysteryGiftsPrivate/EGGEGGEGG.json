@@ -1,0 +1,20 @@
+{
+   "EGGEGGEGG":{
+      "quantity":0,
+      "pokemon":{
+         "species":"B175H175",
+         "name":"Togepi",
+         "item":"",
+         "ability":"SUPERLUCK",
+         "level":1,
+         "owner":"Frogzilla",
+         "ball":"POKEBALL",
+         "steps_to_hatch":1000,
+         "moves":[
+            "SOFTBOILED"
+         ]
+      },
+      "name":"Can I offer you another egg?",
+      "enabled":true
+   }
+}

@@ -1,0 +1,20 @@
+{
+   "EGGEGG":{
+      "quantity":0,
+      "pokemon":{
+         "species":"TOGEPI",
+         "name":"Egg",
+         "item":"",
+         "ability":"HUSTLE",
+         "level":1,
+         "owner":"Frogzilla",
+         "ball":"POKEBALL",
+         "steps_to_hatch":500,
+         "moves":[
+            "SOFTBOILED"
+         ]
+      },
+      "name":"Can I offer you an egg?",
+      "enabled":true,
+   }
+}

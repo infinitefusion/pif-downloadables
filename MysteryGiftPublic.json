@@ -4,7 +4,7 @@
     "pokemon":{
       "species":"SKITTY",
       "name":"Skitty",
-      "item":"",
+      "item":"DNASPLICERS",
       "ability":"NORMALIZE",
       "level":5,
       "owner":"Frogzilla",
@@ -41,7 +41,7 @@
     "pokemon":{
       "species":"SPINDA",
       "name":"Spinda",
-      "item":"",
+      "item":"DNASPLICERS",
       "ability":"OWNTEMPO",
       "level":5,
       "owner":"Frogzilla",

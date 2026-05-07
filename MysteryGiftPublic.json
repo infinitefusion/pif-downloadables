@@ -61,10 +61,10 @@
       "ivs":{
         "hp":22,
         "atk":25,
-        "def":1,
+        "def":16,
         "spa":18,
         "spd":10,
-        "spe":5
+        "spe":15
       },
       "nature":"ADAMANT",
       "moves":[
@@ -74,7 +74,7 @@
     },
     "name":"Welcome to Hoenn! (1)!",
     "enabled":true,
-    "kanto_only":true
+    "hoenn_only":true
   },
   "HOENN2":{
     "quantity":5,

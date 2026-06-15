@@ -73,7 +73,7 @@
         "COPYCAT"
       ]
     },
-    "name":"Welcome to Hoenn! (1)",
+    "name":"Welcome to Hoenn!",
     "enabled":true,
     "hoenn_only":true
   },
@@ -81,6 +81,6 @@
     "quantity":5,
     "item":"DNASPLICERS",
     "name":"Welcome to Hoenn! (2)",
-    "enabled":true
+    "enabled":false
   }
 }

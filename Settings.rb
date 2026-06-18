@@ -11,7 +11,9 @@ module Settings
   
   MAIN_MENU_LINKS = {
     "Discord" => "https://discord.com/invite/infinitefusion",
+    "FAQ" => "https://hackmd.io/@PIF-Staff/PIF-Hoenn-FAQ/",
     "Wiki" => "https://infinitefusion.fandom.com/",
+    
   }
   
   FEEDBACK_FORM_URL = "https://forms.gle/1svTMSUMf7ebHdZq7"

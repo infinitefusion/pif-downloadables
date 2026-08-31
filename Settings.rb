@@ -66,15 +66,9 @@ module Settings
   CUSTOMSPRITES_ENTRIES_RATE_TIME_WINDOW = 60    # In seconds
   MAX_NB_SPRITES_TO_DOWNLOAD_AT_ONCE =5
 
-  #POKEDEX ENTRIES
-
-  AI_ENTRIES_URL = "https://infinitefusion.net/dex/"
-  AI_ENTRIES_RATE_MAX_NB_REQUESTS = 10  #Nb. requests allowed in each time window
-  AI_ENTRIES_RATE_TIME_WINDOW = 120    # In seconds
-  AI_ENTRIES_RATE_LOG_FILE = 'Data/pokedex/rate_limit.log'  # Path to the log file
 
   #Spritepack
-  NEWEST_SPRITEPACK_MONTH = 7
+  NEWEST_SPRITEPACK_MONTH = 8
   NEWEST_SPRITEPACK_YEAR = 2026
 end
 

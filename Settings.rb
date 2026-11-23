@@ -1,7 +1,6 @@
 
 module Settings
   LATEST_GAME_RELEASE = "6.8.0"
-  NB_POKEMON = 576
 
   SHINY_POKEMON_CHANCE = 16
   SNOW_DAY = false
